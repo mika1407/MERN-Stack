@@ -86,6 +86,11 @@ h3 {
   color: #828282;
 }
 
+.omabottom {
+  margin-top: 90px;
+  border-top: 1px solid #e6e6e6;
+}
+
 .goals {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
