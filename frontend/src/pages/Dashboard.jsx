@@ -61,11 +61,28 @@ function Dashboard() {
 
     <section className='omabottom'>
       <p>Youtube videot miten nämä sivut tehtiin:</p>
-      <h2 className='oma2'>
+      <section className='oma2'>
+      <h2 >
+        <a href="https://www.youtube.com/watch?v=-0exw-9YJBo" target="_blank" rel="noreferrer noopener">
+          <FaYoutube />  osa 1
+        </a>
+      </h2>
+            <h2 >
+        <a href="https://www.youtube.com/watch?v=enopDSs3DRw" target="_blank" rel="noreferrer noopener">
+          <FaYoutube />  osa 2
+        </a>
+      </h2>
+            <h2 >
+        <a href="https://www.youtube.com/watch?v=mvfsC66xqj0" target="_blank" rel="noreferrer noopener">
+          <FaYoutube />  osa 3
+        </a>
+      </h2>
+      <h2 >
         <a href="https://www.youtube.com/watch?v=UXjMo25Nnvc&t" target="_blank" rel="noreferrer noopener">
           <FaYoutube />  osa 4
         </a>
       </h2>
+      </section>
     </section>
     </>
   )

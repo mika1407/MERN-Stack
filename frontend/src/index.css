@@ -103,6 +103,11 @@ h3 {
   text-align: center;
   align-items: center;
   justify-content: center;
+  display: flex;
+}
+
+.oma2 a{
+   padding: 50px 30px;
 }
 
 .goals {
