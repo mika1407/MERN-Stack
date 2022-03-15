@@ -89,6 +89,20 @@ h3 {
 .omabottom {
   margin-top: 90px;
   border-top: 1px solid #e6e6e6;
+  padding: 10px 20px;
+  background: #828282;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.oma2{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .goals {
